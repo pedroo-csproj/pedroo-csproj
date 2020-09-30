@@ -14,5 +14,5 @@
 </ul>
 
 <p align="center">
-<img src="https://media.tenor.com/images/d02f68f2b8785baa2e72115dec9bceed/tenor.gif"></img>
+<img src="https://i.redd.it/h3zdm4w68xe11.jpg"></img>
 </p>
