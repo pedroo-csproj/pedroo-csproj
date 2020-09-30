@@ -14,5 +14,5 @@
 </ul>
 
 <p align="center">
-<img src="https://i.redd.it/h3zdm4w68xe11.jpg"></img>
+<img src="https://japaneselevelup.com/wp-content/uploads/2018/05/Why-Programmers-Like-Japanese-Why-Japanese-Learners-like-Programming-1-min.jpg"></img>
 </p>
