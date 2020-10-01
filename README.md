@@ -19,6 +19,9 @@
   </li>
 </ul>
 
-<p style="text-align: center;">
+</br>
+</br>
+
+<p align="center">
 <image src="https://anime-girls-holding-programming-books.netlify.app/static/517a4fe199ba9a7d9ed7cfe5426637b0/5890a/Chitanda_Eru_Holding_C_Programming_Language.jpg" />
 </p>
