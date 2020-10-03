@@ -10,6 +10,7 @@
       <li>Database : SqlServer | MySql | MongoDB</li>
     </ul>
   </li>
+  <li>🌱 Learning <b>Ruby on Rails</b></li>
   <li>
   📫 Contact me:
   <ul>
@@ -22,6 +23,8 @@
 </br>
 </br>
 
-<p align="center">
-<image src="https://anime-girls-holding-programming-books.netlify.app/static/517a4fe199ba9a7d9ed7cfe5426637b0/5890a/Chitanda_Eru_Holding_C_Programming_Language.jpg" />
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=pedro-octavio&&show_icons=true&theme=dracula"/>
+  </a>
 </p>
