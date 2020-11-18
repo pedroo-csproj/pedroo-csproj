@@ -1,16 +1,15 @@
 <h1>Hello guys, welcome to my GitHub</h1>
-<p>My name is <b>Pedro Octávio</b>, I am a Software Enginner.</p>
+<p>My name is <b>Pedro Octávio</b>, I am a Full Stack Software Enginner.</p>
 <ul>
   <li>🔭 I currently work as a Software Enginner at <a href="https://www.tcs.com/">Tata Consultancy Services</a></li>
   <li>👯 I am looking to collaborate with innovative and fun projects.</li>
   <li>💬 Ask me about:
     <ul>
-      <li>Backend : .Net Core | .Net MVC | Node.JS</li>
-      <li>Frontend : Asp .Net Core | Asp .Net MVC | Angular</li>
-      <li>Database : SqlServer | MySql | MongoDB</li>
+      <li>Backend : Asp .Net Core | Asp .Net MVC | Node.JS</li>
+      <li>Frontend : Angular</li>
+      <li>Database : SqlServer | MySql | PostgreSQL | MongoDB | Redis</li>
     </ul>
   </li>
-  <li>🌱 Learning <b>Ruby on Rails</b></li>
   <li>
   📫 Contact me:
   <ul>
