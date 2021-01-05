@@ -5,9 +5,10 @@
   <li>👯 I am looking to collaborate with innovative and fun projects.</li>
   <li>💬 Ask me about:
     <ul>
-      <li>Backend : Asp .Net Core | Asp .Net MVC | Node.JS</li>
+      <li>Backend : Asp .Net Core | Asp .Net MVC</li>
       <li>Frontend : Angular</li>
-      <li>Database : SqlServer | MySql | PostgreSQL | MongoDB | Redis</li>
+      <li>Database : SqlServer | MySql | MongoDB</li>
+      <li>Container Management : Docker</li>
     </ul>
   </li>
   <li>
