@@ -19,12 +19,3 @@
   </ul>
   </li>
 </ul>
-
-</br>
-</br>
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=pedro-octavio&&show_icons=true&theme=dracula"/>
-  </a>
-</p>
