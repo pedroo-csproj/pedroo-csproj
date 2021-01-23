@@ -7,7 +7,7 @@
     <ul>
       <li>Backend : Asp .Net Core | Asp .Net MVC</li>
       <li>Frontend : Angular</li>
-      <li>Database : SqlServer | MySql | MongoDB</li>
+      <li>Database : SqlServer | MySql | MongoDB | SQLite</li>
       <li>Container Management : Docker</li>
     </ul>
   </li>
