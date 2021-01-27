@@ -15,7 +15,6 @@
   📫 Contact me:
   <ul>
     <li>E-mail: <b>pedrooctavio.dev@outlook.com</b></li>
-    <li>Phone Number: <b>(+55) 11 95819-2543</b></li>
   </ul>
   </li>
 </ul>
