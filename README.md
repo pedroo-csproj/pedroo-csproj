@@ -1,7 +1,7 @@
 <h1>Hello guys, welcome to my GitHub</h1>
 <p>My name is <b>Pedro Octávio</b>, I am a Full Stack Software Enginner.</p>
 <ul>
-  <li>🔭 I currently work as a Software Enginner at <a href="https://www.tcs.com/">Tata Consultancy Services</a></li>
+  <li>🔭 I currently work as a System Enginner at <a href="https://www.tcs.com/">Tata Consultancy Services</a></li>
   <li>👯 I am looking to collaborate with innovative and fun projects.</li>
   <li>💬 Ask me about:
     <ul>
