@@ -8,7 +8,8 @@
       <li>Backend : Asp .Net Core (C# and F#)| Asp .Net MVC (C# and F#) | Node.JS (JavaScript and TypeScript)</li>
       <li>Frontend : Razor | Blazor | Angular</li>
       <li>Database : SqlServer | MySql | MongoDB | SQLite</li>
-      <li>Container Management : Docker</li>
+      <li>Code Versionament: Git (GitHub and TFS)</li>
+      <li>Agile Methodologies : Scrum</li>
     </ul>
   </li>
   <li>
