@@ -1,7 +1,7 @@
 <h1>Hello guys, welcome to my GitHub</h1>
 <p>My name is <b>Pedro Octávio</b>, I am a Software Enginner.</p>
 <ul>
-  <li>🔭 I currently work as a Software Enginner at <a href="https://www.madeinweb.com.br/">MadeinWeb</a>.</li>
+  <li>🔭 I currently work as a Software Enginner at <a href="http://www.deal.com.br/">Deal</a>.</li>
   <li>👯 I am looking to collaborate with innovative and fun projects.</li>
   <li>💬 Ask me about:
     <ul>
