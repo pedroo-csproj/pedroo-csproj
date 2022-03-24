@@ -5,7 +5,9 @@ I currently work as a Tech Lead at [D&D Tech](https://dedtech.com.br/).
 ## Where you can find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-octavio/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedrooctavio.dev@outlook.com)
- 
+
+## Skills
+
 ### Programming Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
