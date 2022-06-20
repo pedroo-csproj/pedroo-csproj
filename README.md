@@ -1,7 +1,7 @@
 # My name is **Pedro Octávio**, I am a Tech Lead.
 
-I currently work as a Tech Lead at [D&D Tech](https://dedtech.com.br/).
- 
+I currently work as a .Net and Azure Specialist at [ITCore](http://www.itcore.com.br/).
+
 ## Where you can find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-octavio/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedrooctavio.dev@outlook.com)
