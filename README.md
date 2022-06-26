@@ -1,6 +1,6 @@
 # My name is **Pedro Octávio**, I am a Tech Lead.
 
-I currently work as a .Net and Azure Specialist at [ITCore](http://www.itcore.com.br/).
+I currently work as a Tech Lead at [D&D Tech Solutions](http://dedtech.com.br/).
 
 ## Where you can find me
 
