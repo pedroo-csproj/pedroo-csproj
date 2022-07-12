@@ -1,6 +1,6 @@
 # My name is **Pedro Octávio**, I am a Tech Lead.
 
-I currently work as a Tech Lead at [D&D Tech Solutions](http://dedtech.com.br/).
+I currently work as a Senior Software Engineer at [Agência Digi](https://www.digi.ag/).
 
 ## Where you can find me
 
