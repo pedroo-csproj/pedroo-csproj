@@ -1,16 +1,17 @@
 # Hello There
 
-I'm a backend developer at [Agência Digi](https://www.digi.ag/) where I create microservices with NestJS to help companies in their incentive campaigns, and also CTO of my own blog [pedroo_csproj archives](https://pedroo-csproj-blog-client.herokuapp.com/).
+I'm a senior sofwtare engineer at [Lakea](https://lakea.io/) where I develop the ecosystem of next-generation blockchain games helping the studios and publishers to get inside to the web3 and metaverse.
 
 ## Backend
 I enjoy to learn new backend technologies (sometimes frontend) and software architecture, and the technologies that I currently work is:
-- *Programming Languages*: C#, JavaScript, TypeScript;
-- *Frameworks*: Asp .Net, NestJS;
-- *Databases*: SQL Server, MySQL, PostgreSQL, MongoDB, SQLite;
-- *Cloud Plataforms*: Azure;
+- *Programming Languages*: C#, JavaScript, TypeScript, Go;
+- *Frameworks*: Asp .Net, Node.JS, NestJS, Angular, ReactJS;
+- *Databases*: SQL Server, MySQL, PostgreSQL, MongoDB, SQLite, Redis;
+- *Cloud Plataforms*: Azure, AWS;
 - *Containers Management*: Docker, Docker-Compose;
 - *Containers Orchestration*: Kubernetes;
 - *Infrastructure as a Code*: Terraform;
+- *Message Queue Services*: RabbitMQ.
 
 ## Get in Touch
 - [Twitter](https://twitter.com/pedroo_csproj);
@@ -18,7 +19,7 @@ I enjoy to learn new backend technologies (sometimes frontend) and software arch
 - [Instagram](https://www.instagram.com/pedroo.csproj/);
 
 ## Hobbies
-I enjoy to read mangas, watch animes, play videogames, basically the nerd programmer starter pack.
+I enjoy to read mangas, watch animes, play videogames, build Lego Star Wars sets.
 
 ### Don't stop learning!
 ![buy Bitcoin](https://github.com/pedroo-csproj/pedroo-csproj/blob/master/assets/hobbie.png)
