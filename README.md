@@ -1,6 +1,6 @@
 # Hello There
 
-I'm a senior sofwtare engineer at [Lakea](https://lakea.io/) where I develop the ecosystem of next-generation blockchain games helping the studios and publishers to get inside to the web3 and metaverse.
+I'm a senior software engineer at [Lakea](https://lakea.io/) where I develop the ecosystem of next-generation blockchain games helping the studios and publishers to get inside to the web3 and metaverse.
 
 ## Backend
 I enjoy to learn new backend technologies (sometimes frontend) and software architecture, and the technologies that I currently work is:
