@@ -11,7 +11,7 @@ I'm currently working with GO, TypeScript, NodejS, NestJS, PostgreSQL, MongoDB, 
 - *Containers Management/Orchestration*: Docker, Docker-Compose, Kubernetes;
 - *Message Queue Services*: RabbitMQ, Apache Kafka;
 
-## Where you can find me:
+Where you can find me:
 - [Twitter](https://twitter.com/pedroo_csproj);
 - [LinkedIn](https://www.linkedin.com/in/pedroo-csproj/);
 
