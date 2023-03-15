@@ -12,7 +12,7 @@ I'm currently working with GO, TypeScript, NodejS, NestJS, PostgreSQL, MongoDB, 
 - *Message Queue Services*: RabbitMQ, Apache Kafka;
 ![buy Bitcoin](https://github.com/pedroo-csproj/pedroo-csproj/blob/master/assets/technologies.png)
 
-Where you can find me:
+## Where you can find me:
 - [Twitter](https://twitter.com/pedroo_csproj);
 - [LinkedIn](https://www.linkedin.com/in/pedroo-csproj/);
 
