@@ -1,5 +1,5 @@
 ![buy Bitcoin](https://github.com/pedroo-csproj/pedroo-csproj/blob/master/assets/hello-there.png)
-I'm a senior software engineer, focused on backend technologies.
+I'm a senior software engineer at [@Deal](https://www.deal.com.br/en/), focused on backend technologies.
 
 I'm currently working with GO, TypeScript, NodejS, NestJS, PostgreSQL, MongoDB, Docker, and AWS. Besides that follow all technologies I know:
 - *Programming Languages*: C#, JavaScript, TypeScript, GO;
