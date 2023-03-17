@@ -2,10 +2,10 @@
 I'm a senior software engineer at [@Deal](https://www.deal.com.br/en/), focused on backend technologies.
 
 I'm currently working with GO, TypeScript, NodejS, NestJS, PostgreSQL, MongoDB, Docker, and AWS. Besides that follow all technologies I know:
-- *Programming Languages*: C#, JavaScript, TypeScript, GO;
-- *Frameworks/Runtimes*: .NET Core, Node.JS, NestJS, Angular, ReactJS;
+- *Programming Languages*: C#, TypeScript, GO;
+- *Frameworks/Runtimes/Libraries*: .NET Core, Node.JS, NestJS, Angular, ReactJS;
 - *HTTP Web Frameworks*: Express.js, Gin, Echo;
-- *ORMs*: Entity Framework Core, GORM, Prisma;
+- *ORMs*: Entity Framework Core, GORM, Prisma, Mongoose;
 - *Databases*: SQL Server, PostgreSQL, MySQL, MongoDB;
 - *Cloud Plataforms*: AWS;
 - *Containers Management/Orchestration*: Docker, Docker-Compose, Kubernetes;
