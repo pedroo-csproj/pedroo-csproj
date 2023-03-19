@@ -1,13 +1,13 @@
 ![buy Bitcoin](https://github.com/pedroo-csproj/pedroo-csproj/blob/master/assets/hello-there.png)
 I'm a senior software engineer at [@Deal](https://www.deal.com.br/en/), focused on backend technologies.
 
-I'm currently working with GO, TypeScript, NodejS, NestJS, PostgreSQL, MongoDB, Docker, and AWS. Besides that follow all technologies I know:
+I'm currently working with GO, TypeScript, NodejS, NestJS, PostgreSQL, MongoDB, Docker, and Azure. Besides that follow all technologies I know:
 - *Programming Languages*: C#, TypeScript, GO;
 - *Frameworks/Runtimes/Libraries*: .NET Core, Node.JS, NestJS, Angular, ReactJS;
 - *HTTP Web Frameworks*: Express.js, Gin, Echo;
 - *ORMs*: Entity Framework Core, GORM, Prisma, Mongoose;
 - *Databases*: SQL Server, PostgreSQL, MySQL, MongoDB;
-- *Cloud Plataforms*: AWS;
+- *Cloud Plataforms*: Azure;
 - *Containers Management/Orchestration*: Docker, Docker-Compose, Kubernetes;
 - *Message Queue Services*: RabbitMQ, Apache Kafka;
 
