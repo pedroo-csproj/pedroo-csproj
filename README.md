@@ -1,5 +1,5 @@
 ![buy Bitcoin](https://github.com/pedroo-csproj/pedroo-csproj/blob/master/assets/hello-there.png)
-I'm a senior software engineer at [@Deal](https://www.deal.com.br/en/), focused on backend technologies.
+I'm a senior software engineer at [@ZAMP](https://zamp.com.br/), focused on backend technologies.
 
 I'm currently working with GO, TypeScript, NodejS, NestJS, PostgreSQL, MongoDB, Docker, and Azure. Besides that follow all technologies I know:
 - *Programming Languages*: C#, TypeScript, GO;
@@ -12,7 +12,6 @@ I'm currently working with GO, TypeScript, NodejS, NestJS, PostgreSQL, MongoDB, 
 - *Message Queue Services*: RabbitMQ, Apache Kafka;
 
 Where you can find me:
-- [Twitter](https://twitter.com/pedroo_csproj);
 - [LinkedIn](https://www.linkedin.com/in/pedroo-csproj/);
 
 ![buy Bitcoin](https://github.com/pedroo-csproj/pedroo-csproj/blob/master/assets/technologies.png)
